@@ -32,7 +32,7 @@ Welcome to **Moviesverse** – your ultimate destination to **download and watch
 
 ## How to Download
 
-1. Visit [Moviesverse](http://example.com)
+1. Visit [Moviesverse](https://themoviesverse.uno)
 2. Browse through our categories to find your desired movie, TV show, or series.
 3. Click on the download link and choose your preferred quality and language.
 
@@ -47,11 +47,11 @@ Welcome to **Moviesverse** – your ultimate destination to **download and watch
 
 Stay connected with Moviesverse for the latest updates:
 
-- [Facebook](https://facebook.com/moviesverse)
-- [Twitter](https://twitter.com/moviesverse)
-- [Instagram](https://instagram.com/moviesverse)
+- [Facebook](https://themoviesverse.uno/)
+- [Twitter](https://themoviesverse.uno/)
+- [Instagram](https://themoviesverse.uno/)
 
-Visit [Moviesverse](http://example.com) today and dive into the world of endless entertainment!
+Visit [Moviesverse](https://themoviesverse.uno/) today and dive into the world of endless entertainment!
 
 
 
